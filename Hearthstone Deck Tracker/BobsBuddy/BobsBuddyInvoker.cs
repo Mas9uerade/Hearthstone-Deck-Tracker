@@ -435,7 +435,7 @@ namespace Hearthstone_Deck_Tracker.BobsBuddy
 
 			if(!ReportErrors && metricSampling == 0)
 			{
-				DebugLog("Nothign to report. Exiting.");
+				DebugLog("Nothing to report. Exiting.");
 				return;
 			}
 
